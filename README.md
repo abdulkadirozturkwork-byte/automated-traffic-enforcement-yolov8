@@ -43,6 +43,11 @@ Check out the video above to see the system in action!
 * **Automated Logic:** Watch how the bounding boxes turn **RED** when a violation is confirmed.
 * **Excel Export:** The end of the video demonstrates the auto-generated report with embedded evidence images.
 
+* ## ⚖️ Data Source & Privacy Disclaimer
+* **Source:** The video footage used in this demonstration is sourced from public domain content available on YouTube (Original Video Link: [Buraya YouTube Linkini Koy]).
+* **Privacy Note:** No personal data (license plates) was stored, processed for identification, or used for commercial purposes. This project is strictly for **educational and research purposes**.
+* **Compliance:** In a real-world deployment (e.g., Ford Otosan production line), a **real-time blurring algorithm** would be integrated to comply with KVKK/GDPR regulations.
+
 
 ## ⚠️ Current Limitations & Future Improvements
 This project is currently a **Proof of Concept (PoC)** prototype.
