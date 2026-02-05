@@ -1,7 +1,7 @@
 # AI-Powered Dynamic Traffic Violation Detection System 🚗📹
 
 ## 🎥 Project Demo (Watch in Action)
-[![Watch the video][(https://img.youtube.com/vi/VIDEO_ID_BURAYA_YAZ/0.jpg)]([https://youtu.be/umTGWc5StwI].
+[![Watch the video][(https://img.youtube.com/vi/[https://youtu.be/umTGWc5StwI]([https://youtu.be/umTGWc5StwI].
 
 > *Click the image above to watch the full demonstration on YouTube.*
 ## 📌 Project Overview
