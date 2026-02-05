@@ -37,5 +37,11 @@ While designed for traffic, this logic is directly applicable to **Industrial En
 * **Safety Zone Monitoring:** Identifying unauthorized personnel or forklifts entering restricted dangerous zones for more than X seconds.
 * **Quality Control:** Detecting defects on a conveyor belt that persist across multiple frames.
 
+
+## ⚠️ Current Limitations & Future Improvements
+This project is currently a **Proof of Concept (PoC)** prototype.
+* **Dataset Constraint:** The YOLOv8 model was trained on a limited dataset for demonstration purposes.
+* **Performance:** Detection accuracy may vary in low-light conditions or with high-speed camera vibrations.
+* **Next Steps:** To achieve industrial-level accuracy (99%+), the dataset will be expanded to 2,000+ labeled images, and the model will be retrained for better generalization.
 ---
 *Developed by Abdulkadir Öztürk - Industrial Engineering Student*
