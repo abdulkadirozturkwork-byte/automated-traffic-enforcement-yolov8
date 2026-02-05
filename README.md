@@ -32,7 +32,7 @@ It analyzes real-time video feeds to identify vehicles traveling outside designa
 * **Data Handling:** Pandas, NumPy
 
 ## 🏭 Potential Industrial Use Cases
-While designed for traffic, this logic is directly applicable to **Industrial Engineering** contexts (e.g., **Ford Otosan** production lines):
+While designed for traffic, this logic is directly applicable to **Industrial Engineering** contexts:
 * **AGV Path Tracking:** Detecting if autonomous robots deviate from their magnetic/visual paths.
 * **Safety Zone Monitoring:** Identifying unauthorized personnel or forklifts entering restricted dangerous zones for more than X seconds.
 * **Quality Control:** Detecting defects on a conveyor belt that persist across multiple frames.
