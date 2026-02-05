@@ -37,6 +37,12 @@ While designed for traffic, this logic is directly applicable to **Industrial En
 * **Safety Zone Monitoring:** Identifying unauthorized personnel or forklifts entering restricted dangerous zones for more than X seconds.
 * **Quality Control:** Detecting defects on a conveyor belt that persist across multiple frames.
 
+  ## 🎥 System Demo
+Check out the video above to see the system in action!
+* **Real-time Tracking:** The system successfully identifies vehicles and filters false positives using the 15-frame rule.
+* **Automated Logic:** Watch how the bounding boxes turn **RED** when a violation is confirmed.
+* **Excel Export:** The end of the video demonstrates the auto-generated report with embedded evidence images.
+
 
 ## ⚠️ Current Limitations & Future Improvements
 This project is currently a **Proof of Concept (PoC)** prototype.
