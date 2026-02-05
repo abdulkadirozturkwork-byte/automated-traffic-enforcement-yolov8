@@ -1,5 +1,10 @@
 # AI-Powered Dynamic Traffic Violation Detection System 🚗📹
 
+## 🎥 Project Demo (Watch in Action)
+[![Watch the video](https://youtu.be/umTGWc5StwI)
+
+> *Click the image above to watch the full demonstration on YouTube.*
+
 ## 📌 Project Overview
 This project is an **automated traffic enforcement system** developed using **Python** and **YOLOv8**. Unlike static cameras, this system is designed to work on **moving vehicles** (e.g., patrol cars).
 
