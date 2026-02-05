@@ -38,4 +38,4 @@ While designed for traffic, this logic is directly applicable to **Industrial En
 * **Quality Control:** Detecting defects on a conveyor belt that persist across multiple frames.
 
 ---
-*Developed by [Adın Soyadın] - Industrial Engineering Student*
+*Developed by Abdulkadir Öztürk - Industrial Engineering Student*
